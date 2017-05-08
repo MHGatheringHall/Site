@@ -13,6 +13,22 @@ h6 {
 	color: #dd845a;
 	}
 
+.rules li {
+    display: block;
+}
+
+.rules li:before {
+    /*Using a Bootstrap glyphicon as the bullet point*/
+    content: "\e080";
+    font-family: 'Glyphicons Halflings';
+    font-size: 12px;
+    float: left;
+    margin-top: 4px;
+    margin-left: -17px;
+		margin-right: 10px;
+    color: #CCCCCC;
+}
+
 .feature {
 	background: url('../images/LagiacrusHeader.png');
 	background-position: top right;
