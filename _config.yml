@@ -1,7 +1,7 @@
 title: "Monster Hunter Gathering Hall"
 description: "Welcome to the Hall, Hunter"
 baseurl: ""
-url: "https://jagrosh.com/Website"
+url: "https://mhgh.info"
 remote_theme: pmarsceill/just-the-docs
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
