@@ -1,0 +1,31 @@
+title: "Monster Hunter Gathering Hall"
+description: "Welcome to the Hall, Hunter"
+baseurl: ""
+url: "https://jagrosh.com/Website"
+remote_theme: pmarsceill/just-the-docs
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+logo: "/images/mhgh_logo_text.png"
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
+aux_links:
+  "<i class=\"fab fa-discord\"></i> Discord":
+    - "https://discord.gg/monsterhunter"
+  "<i class=\"fab fa-twitter\"></i> Twitter":
+    - "https://twitter.com/MHGatheringHall"
+  "<i class=\"fab fa-steam\"></i> Steam":
+    - "https://steamcommunity.com/groups/MonHunGatheringHall"
+  "<i class=\"fab fa-twitch\"></i> Twitch":
+    - "https://twitch.tv/MHGatheringHall"
+color_scheme: "dark"
+#ga_tracking: ""
+plugins:
+  - jekyll-seo-tag
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
