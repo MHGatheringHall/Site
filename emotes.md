@@ -6,8 +6,8 @@ permalink: /emotes
 ---
 
 Below are the emotes created by and for the Monster Hunter Gathering Hall
-Preview | Name | Author
----|---|---
+ Preview | Name | Author 
+---------|------|--------
 ![aishaWave](https://cdn.discordapp.com/emojis/659905680068575235.png) | aishaWave | emillight#1914
 ![aishaWhat](https://cdn.discordapp.com/emojis/788888375423401985.png) | aishaWhat | emillight#1914
 ![angryKush](https://cdn.discordapp.com/emojis/546495536136454154.png) | angryKush | 🚬🌿Hellablaze Glavenus🌿🚬#4283
@@ -114,8 +114,8 @@ Preview | Name | Author
 ---
 
 Additionally, some emotes are resources from various games.
-Preview | Name | Source
----|---|---
+ Preview | Name | Source 
+---------|------|--------
 ![apexJang](https://cdn.discordapp.com/emojis/229902862128381952.png) | apexJang | MH4U
 ![Brachydios](https://cdn.discordapp.com/emojis/233809176604704768.png) | Brachydios | MH4U
 ![Deviljho](https://cdn.discordapp.com/emojis/233810653792567296.png) | Deviljho | MH4U
