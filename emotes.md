@@ -10,8 +10,8 @@ Below are the emotes created by and for the Monster Hunter Gathering Hall
 |------------------------------------------------------------------------------------|-----------------------|---------------------------------|
 | ![aishaWave](https://cdn.discordapp.com/emojis/659905680068575235.png)             | aishaWave             | emillight#1914                  |
 | ![aishaWhat](https://cdn.discordapp.com/emojis/788888375423401985.png)             | aishaWhat             | emillight#1914                  |
-| ![angryKush](https://cdn.discordapp.com/emojis/546495536136454154.png)             | angryKush             | 🚬🌿Hellablaze Glavenus🌿🚬#4283    |
-| ![astOwOs](https://cdn.discordapp.com/emojis/546495536166076417.png)               | astOwOs               | 🚬🌿Hellablaze Glavenus🌿🚬#4283    |
+| ![angryKush](https://cdn.discordapp.com/emojis/546495536136454154.png)             | angryKush             | Hellablaze Glavenus#4283        |
+| ![astOwOs](https://cdn.discordapp.com/emojis/546495536166076417.png)               | astOwOs               | Hellablaze Glavenus#4283        |
 | ![bazelCool](https://cdn.discordapp.com/emojis/597646773590425616.png)             | bazelCool             | Dex#9062                        |
 | ![beardSip](https://cdn.discordapp.com/emojis/659905683470286873.png)              | beardSip              | Kapu#1178 and Keaton__Mask#8703 |
 | ![bhernaChug](https://cdn.discordapp.com/emojis/717882055408484453.png)            | bhernaChug            | Accurina of Time#3129           |
@@ -23,7 +23,7 @@ Below are the emotes created by and for the Monster Hunter Gathering Hall
 | ![dodoPat](https://cdn.discordapp.com/emojis/546495536673325086.png)               | dodoPat               | Aer#5431                        |
 | ![efiWink](https://cdn.discordapp.com/emojis/659905761752645651.png)               | efiWink               |                                 |
 | ![Eyenoculars](https://cdn.discordapp.com/emojis/374250960236838922.png)           | Eyenoculars           | jagrosh#4824                    |
-| ![giaStare](https://cdn.discordapp.com/emojis/597646774148136970.png)              | giaStare              | 🚬🌿Hellablaze Glavenus🌿🚬#4283    |
+| ![giaStare](https://cdn.discordapp.com/emojis/597646774148136970.png)              | giaStare              | Hellablaze Glavenus#4283        |
 | ![grahamLUL](https://cdn.discordapp.com/emojis/717882053277909063.png)             | grahamLUL             | emillight#1914                  |
 | ![gukuSleep](https://cdn.discordapp.com/emojis/659905689220677653.png)             | gukuSleep             |                                 |
 | ![handlerDab](https://cdn.discordapp.com/emojis/788888382079369226.png)            | handlerDab            | Kali#7181                       |
@@ -68,7 +68,7 @@ Below are the emotes created by and for the Monster Hunter Gathering Hall
 | ![nergi](https://cdn.discordapp.com/emojis/659907222964404283.png)                 | nergi                 | wwylele#4040                    |
 | ![noiceMaggy](https://cdn.discordapp.com/emojis/281963678864244737.png)            | noiceMaggy            |                                 |
 | ![notLikeHandler](https://cdn.discordapp.com/emojis/788888382251466842.png)        | notLikeHandler        | Kali#7181                       |
-| ![odoSmug](https://cdn.discordapp.com/emojis/546495535817949225.png)               | odoSmug               | 🚬🌿Hellablaze Glavenus🌿🚬#4283    |
+| ![odoSmug](https://cdn.discordapp.com/emojis/546495535817949225.png)               | odoSmug               | Hellablaze Glavenus#4283        |
 | ![palaStare](https://cdn.discordapp.com/emojis/788888378909261864.png)             | palaStare             |                                 |
 | ![paliCri](https://cdn.discordapp.com/emojis/546495536442638363.png)               | paliCri               | Yian Konchu#3880                |
 | ![paliPog](https://cdn.discordapp.com/emojis/788888996747018261.png)               | paliPog               |                                 |
@@ -96,7 +96,7 @@ Below are the emotes created by and for the Monster Hunter Gathering Hall
 | ![topicJang](https://cdn.discordapp.com/emojis/717882056528363602.png)             | topicJang             | Teo_Toaster#1793                |
 | ![tostDisapprove](https://cdn.discordapp.com/emojis/717882053890408479.png)        | tostDisapprove        | emillight#1914                  |
 | ![unamewsed](https://cdn.discordapp.com/emojis/546495536593895433.png)             | unamewsed             | ianV#7378                       |
-| ![valBrow](https://cdn.discordapp.com/emojis/546495536501620756.png)               | valBrow               | 🚬🌿Hellablaze Glavenus🌿🚬#4283    |
+| ![valBrow](https://cdn.discordapp.com/emojis/546495536501620756.png)               | valBrow               | Hellablaze Glavenus#4283        |
 | ![valHat](https://cdn.discordapp.com/emojis/597646774227828755.png)                | valHat                | Painkiller#4311                 |
 | ![veLOL](https://cdn.discordapp.com/emojis/546495536555884564.png)                 | veLOL                 | Yian Konchu#3880                |
 | ![wagAngry](https://cdn.discordapp.com/emojis/585587770777403392.png)              | wagAngry              |                                 |
@@ -104,7 +104,7 @@ Below are the emotes created by and for the Monster Hunter Gathering Hall
 | ![whatJaggif](https://cdn.discordapp.com/emojis/374255488273219604.png)            | whatJaggif            | Melty Noodle#5493               |
 | ![whenLifeGetsAtHandler](https://cdn.discordapp.com/emojis/717882052770398339.png) | whenLifeGetsAtHandler | Kali#7181                       |
 | ![wokeSeer](https://cdn.discordapp.com/emojis/597646773967913012.png)              | wokeSeer              | Keaton__Mask#9703               |
-| ![xenoEyes](https://cdn.discordapp.com/emojis/597646774307389440.png)              | xenoEyes              | 🚬🌿Hellablaze Glavenus🌿🚬#4283    |
+| ![xenoEyes](https://cdn.discordapp.com/emojis/597646774307389440.png)              | xenoEyes              | Hellablaze Glavenus#4283        |
 | ![yunisBlank](https://cdn.discordapp.com/emojis/788888377348325437.png)            | yunisBlank            |                                 |
 | ![yunisConcern](https://cdn.discordapp.com/emojis/659905757676044359.png)          | yunisConcern          |                                 |
 | ![yunisSneer](https://cdn.discordapp.com/emojis/788888377184616498.png)            | yunisSneer            |                                 |
